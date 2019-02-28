@@ -1,0 +1,69 @@
+var friends = [ 
+{
+name:"Bear",
+photo:"https://goo.gl/images/Xoxcjz",
+scores:[
+    5,
+    1,
+    4,
+    4,
+    5,
+    1,
+    2,
+    5,
+    4,
+    1
+  ]
+},
+{
+    name:"Wolf",
+    photo:"https://goo.gl/images/aCdkCg",
+    scores:[
+        4,
+        3,
+        2,
+        1,
+        4,
+        2,
+        1,
+        3,
+        4,
+       4
+      ]
+    },
+    {
+        name:"Lion",
+        photo:"https://goo.gl/images/avjY8e",
+        scores:[
+            2,
+            2,
+            5,
+            6,
+            8,
+           9,
+           2,
+            3,
+            3,
+            3
+          ]
+        },
+        {
+            name:"Bear",
+            photo:"https://goo.gl/images/Xoxcjz",
+            scores:[
+                5,
+                1,
+                4,
+                4,
+                5,
+                1,
+                2,
+                5,
+                4,
+                1
+              ]
+            },
+
+];
+
+module.exports = friends;
