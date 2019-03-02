@@ -1,7 +1,7 @@
 var friends = [ 
 {
 name:"Bear",
-photo:"https://goo.gl/images/Xoxcjz",
+photo:"https://images.pexels.com/photos/35435/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 scores:[
     5,
     1,
@@ -17,7 +17,7 @@ scores:[
 },
 {
     name:"Wolf",
-    photo:"https://goo.gl/images/aCdkCg",
+    photo:"https://images.pexels.com/photos/682375/pexels-photo-682375.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     scores:[
         4,
         3,
@@ -33,7 +33,7 @@ scores:[
     },
     {
         name:"Lion",
-        photo:"https://goo.gl/images/avjY8e",
+        photo:"https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         scores:[
             2,
             2,
@@ -48,8 +48,8 @@ scores:[
           ]
         },
         {
-            name:"Bear",
-            photo:"https://goo.gl/images/Xoxcjz",
+            name:"Bulldog",
+            photo:"https://images.pexels.com/photos/160846/french-bulldog-summer-smile-joy-160846.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
             scores:[
                 5,
                 1,
